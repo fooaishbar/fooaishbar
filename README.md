@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaisimha-Kulkarni
-- 👀 I’m interested in building CI/CD pipelines, test automation frameworks and automation tools 
-- 🌱 I’m currently learning javascript and springboot and many things.....
+- 👀 I’m interested in building CI/CD pipelines, infrastructure automation, test automation frameworks, and automation tools 
+- 🌱 I’m currently learning javascript and spring-boot and many other things.....
 - 📫 How to reach me 📧bkjaisimha@gmail.com 
 
 <!---
